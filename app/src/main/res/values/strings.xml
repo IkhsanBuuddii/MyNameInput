@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyNameInput</string>
+    <string name="hint_name">Enter your Name</string>
+    <string name="hint_email">Enter your Email</string>
+    <string name="hint_phone">Enter your Phone Number</string>
+    <string name="hint_password">Enter your Password</string>
+    <string name="button_submit">Submit</string>
+</resources>
